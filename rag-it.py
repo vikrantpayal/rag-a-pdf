@@ -5,3 +5,6 @@ device
 
 from langchain_community.llms import HuggingFaceEndpoint # NEXT how do I import HF endpoint?
 from langchain.prompts import PromptTemplate
+
+import os
+from getpass import getpass

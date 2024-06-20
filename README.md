@@ -6,7 +6,7 @@ A simple program to read a text-heavy pdf, give a user an interface to ask quest
 IISC-TalentSprint AIMLOps Cohort 2 Module 6, Mini-project 2
 
 ### Dependencies:
-Install langchain, pypdf, torch, transformer, sentence-transformer
+Install langchain, pypdf, torch, transformer, sentence-transformer, langchain_community
 Use pip -q install <package>
 The -q argument is for quiet install.
 
